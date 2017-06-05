@@ -15,3 +15,8 @@ LiveReload into browser while writing
 gulp build
 `
 Create minified production version of the project
+
+`
+gulp clear
+`
+Clear cache of the minified images.
